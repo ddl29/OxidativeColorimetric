@@ -1,5 +1,5 @@
-# OxidativeColorimetric
-Measured oxidative process on avocado and banana by taking time-lapse photographs to create line charts drawn from pixel-grid colorimetric analysis using Python. Also tried using various antioxidants to see how would it stop the oxidation.
+# Oxidative Colorimetric Analysis
+Measured oxidative process (enzymatic browning) on avocado and banana by taking time-lapse photographs to create line charts drawn from pixel-grid colorimetric analysis using Python. Also tried using various antioxidants to see how would it stop the oxidation.
 
 # Context
 Excited to share my first programming project completely made on my own! It was back then when I was a Biotechnology student as part of my Biochemestry research project. The challenge was come up with a creative way of measure the oxidation of fruits apart from the well-known pH analysis method. After thinking about it, I proposed my team to measure it like we would do by eye: by measuring the darkening of the surface of fruits. So that way we could take a qualitative characteristic which represents the oxidation process very faithfully and convert the data into quantitative information.
